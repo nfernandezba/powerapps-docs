@@ -39,11 +39,9 @@ With embedded canvas apps, makers can bring the power of canvas apps to their mo
 
 Canvas apps are embedded in model-driven forms in the same way other custom controls are added. An embedded canvas app includes rich data integration capabilities that bring in contextual data from the host model-driven form to the embedded canvas app.
 
-## Integrating canvas apps using the modern app designer (preview)
+## Integrating canvas apps using the modern app designer
 
-Using the modern app designer, canvas apps can be accessed through a model-driven app by using a custom page.  
-
-The modern app designer introduced the concept of [pages](model-driven-app-glossary.md#page), which can contain either canvas apps or Dataverse components. More information: [Overview of custom pages for model-driven apps](model-app-page-overview.md)
+You can embed a canvas app in a form by using the modern app designer. [Learn how to add an embedded canvas app on a model-driven form - modern designer](embedded-canvas-app-using-the-modern-designer.md).
 
 ## Embedding using the classic designer (current)
 
